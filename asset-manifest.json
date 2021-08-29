@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/todoswebsiteReact/static/css/main.36013ce7.chunk.css",
+    "main.js": "/todoswebsiteReact/static/js/main.adc6f8fc.chunk.js",
+    "main.js.map": "/todoswebsiteReact/static/js/main.adc6f8fc.chunk.js.map",
+    "runtime-main.js": "/todoswebsiteReact/static/js/runtime-main.5a9d4264.js",
+    "runtime-main.js.map": "/todoswebsiteReact/static/js/runtime-main.5a9d4264.js.map",
+    "static/js/2.aead81da.chunk.js": "/todoswebsiteReact/static/js/2.aead81da.chunk.js",
+    "static/js/2.aead81da.chunk.js.map": "/todoswebsiteReact/static/js/2.aead81da.chunk.js.map",
+    "static/js/3.018f4b3b.chunk.js": "/todoswebsiteReact/static/js/3.018f4b3b.chunk.js",
+    "static/js/3.018f4b3b.chunk.js.map": "/todoswebsiteReact/static/js/3.018f4b3b.chunk.js.map",
+    "index.html": "/todoswebsiteReact/index.html",
+    "static/css/main.36013ce7.chunk.css.map": "/todoswebsiteReact/static/css/main.36013ce7.chunk.css.map",
+    "static/js/2.aead81da.chunk.js.LICENSE.txt": "/todoswebsiteReact/static/js/2.aead81da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a9d4264.js",
+    "static/js/2.aead81da.chunk.js",
+    "static/css/main.36013ce7.chunk.css",
+    "static/js/main.adc6f8fc.chunk.js"
+  ]
+}
